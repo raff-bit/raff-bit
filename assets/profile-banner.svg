@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Rafael Monteiro — Systems Engineering at ISEP</title>
+  <desc id="desc">Centered profile banner in graphite, midnight blue and teal, showing Rafael Monteiro's study area and technologies.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111821"/>
+      <stop offset="58%" stop-color="#17232e"/>
+      <stop offset="100%" stop-color="#123c46"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#42d6c4" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#42d6c4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5ce1cf" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#5ce1cf" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#5ce1cf" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
+  <circle cx="190" cy="64" r="280" fill="url(#glow)"/>
+  <circle cx="1040" cy="255" r="300" fill="url(#glow)"/>
+  <path d="M0 265C245 205 350 325 604 260s394-77 596-31" fill="none" stroke="#5ce1cf" stroke-opacity=".11" stroke-width="1.5"/>
+  <path d="M0 281C245 221 350 341 604 276s394-77 596-31" fill="none" stroke="#5ce1cf" stroke-opacity=".08" stroke-width="1.5"/>
+  <g fill="#74e8d8" opacity=".55">
+    <circle cx="104" cy="104" r="2"/><circle cx="1094" cy="88" r="2"/><circle cx="1018" cy="130" r="1.5"/><circle cx="170" cy="238" r="1.5"/>
+  </g>
+  <text x="600" y="67" text-anchor="middle" fill="#8ee9dc" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">SYSTEMS ENGINEERING · ISEP</text>
+  <text x="600" y="151" text-anchor="middle" fill="#f5f8fa" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.5">Rafael Monteiro</text>
+  <text x="600" y="193" text-anchor="middle" fill="#d5e3e8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Software Development · Applied AI · Optimization</text>
+  <rect x="365" y="218" width="470" height="1.5" rx="1" fill="url(#rule)"/>
+  <text x="600" y="257" text-anchor="middle" fill="#b7eee6" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.25">JAVA  /  PYTHON  /  C#  /  C/C++  /  PHP  /  SQL  /  IOT</text>
+  <text x="600" y="291" text-anchor="middle" fill="#a7c6cb" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="2">RAFF-BIT</text>
+</svg>

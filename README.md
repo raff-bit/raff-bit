@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="Rafael Monteiro — Systems Engineering at ISEP, focused on software development, applied AI and optimization" width="100%" />
+</div>
 
-<!--
-**raff-bit/raff-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <strong>Systems Engineering student at ISEP</strong><br />
+  Software development · Applied AI · Optimization
+</div>
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Systems Engineering student interested in building useful software and applying computational methods to real-world problems. My projects span event management, web development, and route optimization.
+
+## Featured projects
+
+
+## Technologies
+
+**Languages:** Python · Java · C# · C/C++ · PHP · SQL  
+
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/rafael-monteiro-eng)
