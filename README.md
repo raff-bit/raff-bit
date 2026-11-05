@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Rafael Monteiro — Systems Engineering at ISEP, focused on software development, applied AI and optimization" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Rafael Monteiro — Systems Engineering at ISEP, focused on web and app development, also interested in applied AI and IoT" width="100%" />
 </div>
 
 <div align="center">
   <strong>Systems Engineering student at ISEP</strong><br />
-  Software development · Applied AI · Optimization
+  Web &amp; app development · also into applied AI and IoT
 </div>
 
 ## About
 
-I’m a Systems Engineering student interested in building useful software and applying computational methods to real-world problems. My projects span event management, web development, and route optimization.
+I’m a Systems Engineering student focused on web and app development: building useful software, end to end, from the database to the interface. I’m also interested in applied AI and IoT. My projects span web apps, event management and route optimization.
 
 ## Featured projects
 
